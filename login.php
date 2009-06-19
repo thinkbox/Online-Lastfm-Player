@@ -1,6 +1,6 @@
 <?php
 
-include 'radio/local.php';
+include 'radio/setup.php';
 
 if ( isset($_GET['token']) ) {
 	$vars = array(
